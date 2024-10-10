@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/jpeg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpeg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libpng" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new_libpng_directory" vcs="Git" />
+  </component>
+</project>
